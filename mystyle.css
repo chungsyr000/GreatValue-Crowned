@@ -6,3 +6,6 @@ p {
   color: white;
   font-size: 13pt;
   }
+body {
+  background-color: gray;
+}
