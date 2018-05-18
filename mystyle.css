@@ -24,9 +24,11 @@ dd {
   color: white;
   font-size: 13pt;
   }
+table {
+  color: white
+  }
 td {
-  color: white;
-  font-size: 13pt;
+  color: white
   }
 th {
   color: yellow
