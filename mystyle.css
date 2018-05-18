@@ -1,8 +1,15 @@
 h1 {
   color: yellow;
-}
-
+  }
 p {
+  color: white;
+  font-size: 13pt;
+  }
+ul {
+  color: white;
+  font-size: 13pt;
+  }
+ol {
   color: white;
   font-size: 13pt;
   }
